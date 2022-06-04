@@ -1,5 +1,5 @@
 import { useEffect, useRef } from 'react';
-import './Tooltip.css'
+import './style/Tooltip.css'
 
 const ToolTip = ({ position }) => {
 
